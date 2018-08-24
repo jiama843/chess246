@@ -1,0 +1,155 @@
+10
+true
+false
+P
+0
+6 4
+false
+false
+P
+0
+4 4
+true
+false
+p
+1
+1 5
+false
+false
+p
+1
+3 5
+true
+false
+N
+2
+7 6
+false
+false
+N
+2
+5 5
+true
+false
+n
+3
+0 1
+false
+false
+n
+3
+2 2
+true
+false
+B
+4
+7 5
+false
+false
+B
+4
+3 1
+6
+true
+false
+P
+0
+6 4
+false
+false
+P
+0
+4 4
+true
+false
+p
+1
+1 5
+false
+false
+p
+1
+2 5
+true
+false
+P
+0
+6 5
+false
+false
+P
+0
+4 5
+8
+true
+false
+P
+0
+6 4
+false
+false
+P
+0
+4 4
+true
+false
+p
+1
+1 4
+false
+false
+p
+1
+2 4
+true
+false
+P
+0
+6 3
+false
+false
+P
+0
+4 3
+true
+false
+p
+1
+1 3
+false
+false
+p
+1
+2 3
+4
+true
+false
+P
+0
+6 4
+false
+false
+P
+0
+4 4
+true
+false
+p
+0
+1 3
+false
+false
+p
+0
+3 3
+2
+true
+false
+P
+0
+6 2
+false
+false
+P
+0
+4 2
